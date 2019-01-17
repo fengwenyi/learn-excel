@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/excel-simple/excel-simple.iml" filepath="$PROJECT_DIR$/excel-simple/excel-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excel-template/excel-template.iml" filepath="$PROJECT_DIR$/excel-template/excel-template.iml" />
+    </modules>
+  </component>
+</project>
